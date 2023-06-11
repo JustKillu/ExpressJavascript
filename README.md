@@ -2,7 +2,7 @@
 Este proyecto es un negocio familiar de un abasto de comida que se ha desarrollado utilizando Express y Node.js. Donde se pueda checar la lista de clientes y ver las cuentas disponibles, productos disponibles.
 
 # Como instalar
-1. Clona el repositorio de GitHub en tu máquina local utilizando el comando `**git clone**` seguido de la URL del repositorio.
+1. Clona el repositorio de GitHub en tu máquina local utilizando el comando `git clone` seguido de la URL del repositorio.
 
 2. Asegúrate de tener Node.js instalado en tu máquina. Puedes verificar esto ejecutando el comando `node -v` en tu terminal. Si no tienes Node.js, puedes descargarlo desde su sitio web oficial.
 
