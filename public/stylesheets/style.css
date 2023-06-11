@@ -7,6 +7,9 @@ a {
   color: #00B7FF;
 }
 
-.propietario,p {
+.propietario {
   text-align: right;
+}
+.descripcion{
+  text-align:center;
 }
