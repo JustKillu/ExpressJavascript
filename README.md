@@ -41,10 +41,11 @@ La interfaz cuenta con 4 urls disponibles como
 
 ### Parametros Disponibles
 
-***Consultas*** **GET** simplemente colocar la **URL** a la que se desea acceder y añadirle `/`+ la id a la que se desea acceder y este mostrara a quien pertenece
+***Consultas*** **GET** simplemente colocar la **URL** a la que se desea acceder y añadirle `/`+ la id a la que se desea acceder y este mostrara a quien pertenece 
+
 
 ![image](https://github.com/JustKillu/ExpressJavascript/assets/60795569/57ab0d61-355b-4450-8bcd-2c7cf63da113)
-
+~~si se quiere obtener una vista de todos lo valores disponibles seria sin la **id**
 
 ***Consultas*** **POST** teniendo en cuenta en que **URL** se tiene que cambiar del metodo de **GET** a **POST** en el thunderclient situandonos en **BODY** escribimos en formato **JSON** nuestro nuevo input luego de esto se nos mostrara en el panel de la derecha todo valores disponibles mas el nuevo creado manualmente, tambien en consola se nos mostrar un mensaje como por ejemplo en la siguiente imagen:
 
