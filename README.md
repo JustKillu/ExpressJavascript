@@ -23,6 +23,11 @@ La principal view fue index hecha con EJS y otra basica para mostrar los product
 4.Para enviar una solicitud HTTP, haz clic en el botón "New Request" y completa los campos requeridos, como la URL, el método HTTP y los parámetros de la solicitud.
 Haz clic en "Send" para enviar la solicitud y ver la respuesta en la pestaña de respuesta.
 
+
+
+Donde se podra visualizar en raw js todos los valores que tienen estos.
+# Para Hacer Consultas
+
 ### URL Disponibles
 La interfaz cuenta con 4 urls disponibles como
 -> http://localhost:2000/clientes
@@ -33,10 +38,12 @@ La interfaz cuenta con 4 urls disponibles como
 
 -> http://localhost:2000/facturas
 
-Donde se podra visualizar en raw js todos los valores que tienen estos.
-# Para Hacer Consultas
 ### Parametros Disponibles
+
 ***Consultas*** **GET** simplemente colocar la **URL** a la que se desea acceder y añadirle `/`+ la id a la que se desea acceder y este mostrara a quien pertenece
+
+![image](https://github.com/JustKillu/ExpressJavascript/assets/60795569/57ab0d61-355b-4450-8bcd-2c7cf63da113)
+
 
 ***Consultas*** **POST** teniendo en cuenta en que **URL** se tiene que cambiar del metodo de **GET** a **POST** en el thunderclient situandonos en **BODY** escribimos en formato **JSON** nuestro nuevo input luego de esto se nos mostrara en el panel de la derecha todo valores disponibles mas el nuevo creado manualmente, tambien en consola se nos mostrar un mensaje como por ejemplo en la siguiente imagen:
 
