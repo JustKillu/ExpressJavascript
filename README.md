@@ -4,7 +4,7 @@ Este proyecto es un negocio familiar de un abasto de comida que se ha desarrolla
 # Como instalar
 1. Clona el repositorio de GitHub en tu máquina local utilizando el comando `git clone` seguido de la URL del repositorio.
 
-2. Asegúrate de tener Node.js instalado en tu máquina. Puedes verificar esto ejecutando el comando `node -v` en tu terminal. Si no tienes Node.js, puedes descargarlo desde su sitio web oficial.
+2. Asegúrate de tener Node.js instalado en tu máquina. Puedes verificar esto ejecutando el comando `node -v` en tu terminal. Si no tienes Node.js, puedes descargarlo desde su sitio web oficial. (tambien debes tener instalador git si vas a usar el metodo de clonar de github, si no es el caso puedes bajarlo en zip y descomprimirlo en una carpeta)
 
 3. Abre una terminal en la carpeta raíz de tu proyecto y ejecuta el comando `npm install`. Esto instalará todas las dependencias necesarias para tu proyecto, incluyendo Express.
 
