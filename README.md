@@ -11,7 +11,7 @@ Este proyecto es un negocio familiar de un abasto de comida que se ha desarrolla
 4. Una vez que se hayan instalado todas las dependencias, puedes ejecutar tu aplicación utilizando el comando `npm start`. Esto iniciará tu servidor y lo hará accesible en tu navegador en la dirección **_http://localhost:2000._**
 
 # Views
-### La principal view fue index hecha con EJS y otra basica para mostrar los productos disponibles, puedo mencionar que para realizar consultas HTTP (POST, PUT, GET, DELETE) a través de una interfaz gráfica de usuario, puedes usar una extensión de Visual Studio Code llamada Thunder Client. Esta extensión te permite enviar solicitudes HTTP y ver las respuestas en una interfaz fácil de usar dentro de tu editor de código. 
+La principal view fue index hecha con EJS y otra basica para mostrar los productos disponibles, puedo mencionar que para realizar consultas HTTP (POST, PUT, GET, DELETE) a través de una interfaz gráfica de usuario, puedes usar una extensión de Visual Studio Code llamada Thunder Client. Esta extensión te permite enviar solicitudes HTTP y ver las respuestas en una interfaz fácil de usar dentro de tu editor de código. 
 
 # Para instalar ThunderClient
 1.Abre Visual Studio Code y haz clic en la pestaña de extensiones en la barra lateral izquierda.
