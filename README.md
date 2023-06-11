@@ -26,12 +26,15 @@ Haz clic en "Send" para enviar la solicitud y ver la respuesta en la pestaña de
 ### URL Disponibles
 La interfaz cuenta con 4 urls disponibles como
 -> http://localhost:2000/clientes
+
 -> http://localhost:2000/cuentas
+
 -> http://localhost:2000/productos
+
 -> http://localhost:2000/facturas
 
 Donde se podra visualizar en raw js todos los valores que tienen estos.
-
+# Para Hacer Consultas
 ### Parametros Disponibles
 ***Consultas*** **GET** simplemente colocar la **URL** a la que se desea acceder y añadirle `/`+ la id a la que se desea acceder y este mostrara a quien pertenece
 
